@@ -1,3 +1,12 @@
+#custom
+target
+.settings
+.vscode
+.classpath
+.project
+zk-multiple-kafka-multiple
+.factorypath
+
 # Compiled class file
 *.class
 
