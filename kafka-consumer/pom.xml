@@ -44,6 +44,9 @@
             <manifest>
               <mainClass>org.strauteka.kafka.test.consumer.App</mainClass>
             </manifest>
+            <manifestEntries>
+              <Multi-Release>true</Multi-Release>
+            </manifestEntries>
           </archive>
           <descriptorRefs>
             <descriptorRef>jar-with-dependencies</descriptorRef>
